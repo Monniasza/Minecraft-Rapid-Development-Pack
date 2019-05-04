@@ -1,0 +1,17 @@
+SimpleAchievements:sa.achievementBook,1,0
+minecraft:stone,64,0
+minecraft:apple,16,0
+minecraft:sapling,64,0
+minecraft:dye,64,15
+minecraft:torch,16,0
+minecraft:dirt,64,0
+minecraft:dye,64,15
+minecraft:dye,64,15
+minecraft:dye,64,15
+minecraft:dirt,64,0
+minecraft:dirt,64,0
+minecraft:dirt,64,0
+minecraft:stone_shovel,1,0
+minecraft:stone_pickaxe,1,0
+minecraft:stone_sword,1,0
+minecraft:stone_axe,1,0
