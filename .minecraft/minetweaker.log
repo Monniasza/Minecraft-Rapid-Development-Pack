@@ -1,0 +1,433 @@
+ERROR: system: AutoSpawner is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command exnihilo
+INFO: Adding minetweaker command gases
+INFO: Adding minetweaker command mekanism
+INFO: Adding minetweaker command railcraft
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command thermalexpansion
+INFO: Adding minetweaker command mfr
+ERROR: Error parsing key mash.zs:2 -- ; expected
+INFO: Adding laser ore Bedrock
+INFO: Adding laser preferred ore <minecraft:bedrock> to color 15
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 3 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 22 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Certus Quartz Crystal
+INFO: Adding recipe for Slimeball
+INFO: Adding recipe for Small Chaos Fragment
+INFO: Adding recipe for Dust
+INFO: Adding recipe for Clay
+INFO: Adding recipe for §aMinicio Essence
+INFO: Adding recipe for Stone Bricks
+INFO: Adding recipe for Gold Ingot
+INFO: Adding recipe for Emerald
+INFO: Adding recipe for Cursed Earth
+INFO: Adding recipe for Redstone
+INFO: Adding recipe for Glowstone Dust
+INFO: Adding recipe for Silicon
+INFO: Adding recipe for Silicon
+INFO: Adding recipe for Obsidian
+INFO: Adding recipe for Iron Ingot
+INFO: Adding recipe for Nether Brick
+INFO: Adding recipe for Seared Brick
+INFO: Adding recipe for Cobblestone
+INFO: Adding recipe for Dust
+INFO: Adding recipe for Sand
+INFO: Adding recipe for Gravel
+INFO: Adding recipe for Exchange Orb
+INFO: Adding recipe for Gold Ingot
+INFO: Adding recipe for Redstone
+INFO: Adding recipe for Ender Pearl
+INFO: Adding recipe for Gold Ingot
+INFO: Adding recipe for Gold Ingot
+INFO: Adding recipe for Gold Ingot
+INFO: Adding recipe for End Stone
+INFO: Adding recipe for Cobblestone
+INFO: Adding recipe for Netherrack
+INFO: Adding recipe for Cobblestone
+INFO: Adding recipe for Netherrack
+INFO: Adding recipe for End Stone
+INFO: Adding recipe for End Stone
+INFO: Adding recipe for Steel Ingot
+INFO: Adding recipe for Steel Ingot
+INFO: Adding recipe for Steel Ingot
+INFO: Adding recipe for Steel Ingot
+INFO: Adding recipe for Steel Ingot
+INFO: Adding recipe for Steel Ingot
+INFO: Adding recipe for Steel Ingot
+INFO: Adding recipe for Steel Ingot
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Tin Ingot
+INFO: Adding recipe for Lead Ingot
+INFO: Adding recipe for Lead Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Lead Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Ferrous Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Shiny Ingot
+INFO: Adding recipe for Oak Wood
+INFO: Adding recipe for Oak Wood Planks
+INFO: Adding recipe for ME Pattern Terminal
+INFO: Adding recipe for Quadruple Compressed Diamond
+INFO: Adding recipe for Quadruple Compressed Redstone
+INFO: Adding recipe for Quadruple Compressed Emerald
+INFO: Adding recipe for Quadruple Compressed Lapis Lazuli
+INFO: Adding recipe for Block of Iron
+INFO: Adding recipe for Snowball
+INFO: Adding recipe for ME Import Bus
+INFO: Adding recipe for ME Storage Bus
+INFO: Adding recipe for ME Fluid Export Bus
+INFO: Adding recipe for ME Fluid Import Bus
+INFO: Adding recipe for ME Fluid Interface
+INFO: Adding recipe for ME Fluid Storage Bus
+INFO: Adding recipe for ME Pattern Terminal
+INFO: Adding recipe for Blaze Rod
+INFO: Adding recipe for Wheat
+INFO: Adding recipe for Nether Quartz
+INFO: Adding recipe for Fluix Crystal
+INFO: Adding recipe for Chest
+INFO: Adding recipe for Minicio Seeds
+INFO: Adding recipe for Shiny Ingot
+INFO: Adding recipe for Platinum ingot
+INFO: Adding recipe for Ferrous Ingot
+INFO: Adding recipe for Nickel ingot
+INFO: Adding recipe for Lead ingot
+INFO: Adding recipe for Lead Ingot
+INFO: Adding recipe for Tin Ingot
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Lead ingot
+INFO: Adding recipe for Tin ingot
+INFO: Adding recipe for Silicon
+INFO: Adding recipe for ME Dense Wire Connector
+INFO: Adding recipe for ME Wire Connector
+INFO: Adding recipe for Fluix Wire Coil
+INFO: Adding recipe for Dense Wire Coil
+INFO: Adding recipe for Dense Wire Coil
+INFO: Adding recipe for Seared Brick
+INFO: Adding recipe for Slimeball
+INFO: Adding recipe for Energy Condenser
+INFO: Adding recipe for Creative Capacitor
+INFO: Adding recipe for Tiny Chaos Fragment
+INFO: Adding recipe for Glowstone Dust
+INFO: Adding recipe for Salt
+INFO: Adding recipe for Steel Ingot
+INFO: Adding recipe for Redstone
+INFO: Adding recipe for Redstone
+INFO: Adding recipe for Item Conduit Speed Upgrade
+INFO: Adding recipe for Seared Brick
+INFO: Adding recipe for Iron Ingot
+INFO: Adding recipe for Iron Bars
+INFO: Adding recipe for Nether Quartz
+INFO: Adding recipe for Gold Horse Armor
+INFO: Adding recipe for Filing Cabinet
+INFO: Adding recipe for Filing Cabinet
+INFO: Adding recipe for Filing Cabinet
+INFO: Adding recipe for Filing Cabinet
+INFO: Adding recipe for Cyanite Ingot
+INFO: Adding recipe for Blutonium Ingot
+INFO: Adding recipe for Yellorium Ingot
+INFO: Adding recipe for Cyanite Ingot
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Conduit Binder
+INFO: Adding recipe for Dark Oak Wood
+INFO: Adding recipe for Dark Oak Wood
+INFO: Adding recipe for Acacia Wood
+INFO: Adding recipe for Jungle Wood
+INFO: Adding recipe for Birch Wood
+INFO: Adding recipe for Spruce Wood
+INFO: Adding recipe for Painting Machine
+INFO: Adding recipe for Double Compressed Diamond
+INFO: Adding recipe for Double Compressed Redstone
+INFO: Adding recipe for Double Compressed Lapis Lazuli
+INFO: Adding recipe for Double Compressed Gold
+INFO: Adding recipe for Double Compressed Iron
+INFO: Adding recipe for Double Compressed Emerald
+INFO: Adding recipe for Clay
+INFO: Adding recipe for Sky Stone
+INFO: Adding recipe for Stick
+INFO: Adding recipe for Block of Iron
+INFO: Adding recipe for Block of Gold
+INFO: Adding recipe for Lapis Lazuli Block
+INFO: Adding recipe for Block of Redstone
+INFO: Adding recipe for Block of Diamond
+INFO: Adding recipe for Block of Emerald
+INFO: Adding recipe for Carpenter's Prism Wedge Slope
+INFO: Adding recipe for Carpenter's Prism Slope
+INFO: Adding recipe for Bedrockium Drum
+INFO: Adding recipe for Drum
+INFO: Adding recipe for Hammer
+INFO: Adding recipe for Creative Dimension Builder
+INFO: Adding recipe for Infinitium Essence
+INFO: Adding recipe for Surnumerum Essence
+INFO: Adding recipe for Googolum Essence
+INFO: Adding recipe for Hyperium Essence
+INFO: Adding recipe for Hyperium Essence
+INFO: Adding recipe for Suprextremium
+INFO: Adding recipe for Extremium
+INFO: Adding recipe for Infinity Core
+INFO: Adding recipe for Philosopher's Stone
+INFO: Adding recipe for Crafter
+INFO: Adding recipe for Encoded Pattern
+INFO: Adding recipe for Triple Hard Stone
+INFO: Adding recipe for Quadruple Hard Stone
+INFO: Adding recipe for Double Hard Stone
+INFO: Adding recipe for Hard Stone
+INFO: Adding recipe for Wither Barrier Glass
+INFO: Adding recipe for Wither Barrier
+INFO: Adding recipe for Iron Bars Block
+INFO: Adding recipe for Surnumerum Essence
+INFO: Adding recipe for Surnumerum Essence
+INFO: Adding recipe for Cobweb
+INFO: Adding recipe for Transmutation Table
+INFO: Adding recipe for Tin solar cell
+INFO: Adding recipe for Carpenter's Wedge Slope
+INFO: Adding recipe for Carpenter's Oblique Exterior Slope
+INFO: Adding recipe for Carpenter's Oblique Interior Slope
+INFO: Adding recipe for Slag
+INFO: Adding recipe for Rich Slag
+INFO: Adding recipe for Cargo Cart
+INFO: Adding recipe for Tiny Chaos Fragment
+INFO: Adding recipe for Book of the Alchemist [WIP]
+INFO: Adding recipe for String
+INFO: Adding recipe for Crafting Logistics Pipe Mk3
+INFO: Adding recipe for Nano Hopper
+INFO: Adding recipe for ME Controller
+INFO: Adding recipe for Seared Brick
+INFO: Adding recipe for Red Deviating Lily seed
+INFO: Adding recipe for White Deviating Lily seed
+INFO: Adding recipe for Black Deviating Lily seed
+INFO: Adding recipe for Green Deviating Lily seed
+INFO: Adding recipe for Brown Deviating Lily seed
+INFO: Adding recipe for Blue Deviating Lily seed
+INFO: Adding recipe for Purple Deviating Lily seed
+INFO: Adding recipe for Cyan Deviating Lily seed
+INFO: Adding recipe for Light Grey Deviating Lily seed
+INFO: Adding recipe for Grey Deviating Lily seed
+INFO: Adding recipe for Pink Deviating Lily seed
+INFO: Adding recipe for Lime Deviating Lily seed
+INFO: Adding recipe for Yellow Deviating Lily seed
+INFO: Adding recipe for Light Blue Deviating Lily seed
+INFO: Adding recipe for Magenta Deviating Lily seed
+INFO: Adding recipe for Orange Deviating Lily seed
+INFO: Adding recipe for White Deviating Lily seed
+INFO: Adding recipe for 2³ Spatial Component
+INFO: Adding recipe for 16³ Spatial Component
+INFO: Adding recipe for 128³ Spatial Component
+INFO: Adding recipe for 1k ME Storage Component
+INFO: Adding recipe for 4k ME Storage Component
+INFO: Adding recipe for 16k ME Storage Component
+INFO: Adding recipe for 64k ME Storage Component
+INFO: Adding recipe for 256k ME Storage Component
+INFO: Adding recipe for 1024k ME Storage Component
+INFO: Adding recipe for 4096k ME Storage Component
+INFO: Adding recipe for 16384k ME Storage Component
+INFO: Adding recipe for 1k ME Gas Storage Component
+INFO: Adding recipe for 4k ME Gas Storage Component
+INFO: Adding recipe for 16k ME Gas Storage Component
+INFO: Adding recipe for 64k ME Gas Storage Component
+INFO: Adding recipe for 256k ME Gas Storage Component
+INFO: Adding recipe for 1024k ME Gas Storage Component
+INFO: Adding recipe for 4096k ME Gas Storage Component
+INFO: Adding recipe for 4096k ME Fluid Storage Component
+INFO: Adding recipe for 1024k ME Fluid Storage Component
+INFO: Adding recipe for 256k ME Fluid Storage Component
+INFO: Adding recipe for 64k ME Fluid Storage Component
+INFO: Adding recipe for 16k ME Fluid Storage Component
+INFO: Adding recipe for 4k ME Fluid Storage Component
+INFO: Adding recipe for 1k ME Fluid Storage Component
+INFO: Adding recipe for Empty EMC Cell Housing
+INFO: Adding recipe for Tier 8 EMC Storage Component
+INFO: Adding recipe for Tier 7 EMC Storage Component
+INFO: Adding recipe for Tier 6 EMC Storage Component
+INFO: Adding recipe for Tier 5 EMC Storage Component
+INFO: Adding recipe for Tier 4 EMC Storage Component
+INFO: Adding recipe for Tier 3 EMC Storage Component
+INFO: Adding recipe for Tier 2 EMC Storage Component
+INFO: Adding recipe for Tier 1 EMC Storage Component
+INFO: Adding recipe for Nether Star
+INFO: Adding recipe for Book
+INFO: Adding recipe for ME Interface
+INFO: Adding recipe for Enchanted Book
+INFO: Adding recipe for Creative Capacitor Bank
+INFO: Adding recipe for Creative Buffer
+INFO: Adding recipe for P2P Tunnel - Light
+INFO: Adding recipe for P2P Tunnel - RF
+INFO: Adding recipe for P2P Tunnel - Redstone
+INFO: Adding recipe for P2P Tunnel - Item
+INFO: Adding recipe for P2P Tunnel - Fluid
+INFO: Adding recipe for Item Translocator
+INFO: Adding recipe for Turbine Creative Steam Generator
+INFO: Adding recipe for Reactor Creative Coolant Port
+INFO: Adding recipe for Perpetuum Locomotive
+INFO: Adding recipe for Infinity Catalyst
+INFO: Adding recipe for Solar panel XII
+INFO: Adding recipe for Solar panel XII
+INFO: Adding recipe for Solar panel XI
+INFO: Adding recipe for Solar panel X
+INFO: Adding recipe for Solar panel IX
+INFO: Adding recipe for Solar panel VII
+INFO: Adding recipe for Solar panel VI
+INFO: Adding recipe for Solar panel V
+INFO: Adding recipe for Solar panel IV
+INFO: Adding recipe for Solar panel III
+INFO: Adding recipe for Solar panel II
+INFO: Adding recipe for Solar panel I
+INFO: Adding recipe for Neutron Collector
+INFO: Adding recipe for §8Tainted Essence
+INFO: Adding recipe for Rubber Wood
+INFO: Adding recipe for Electrical Steel
+INFO: Adding recipe for Creative Storage Upgrade
+INFO: Adding recipe for Creative Flux Pack
+INFO: Adding recipe for Basic Energy Cube
+INFO: Adding recipe for Admin Anchor
+INFO: Adding recipe for Creative Jetpack
+INFO: Adding recipe for Admin Anchor
+INFO: Adding recipe for Basic Backpack
+INFO: Adding recipe for Drawer Controller
+INFO: Adding recipe for Controller Slave
+INFO: Adding recipe for Chest To Storage Crate Upgrade
+INFO: Adding recipe for §8Batbag
+INFO: Adding recipe for §cWyld Bag
+INFO: Adding recipe for §cWyld Bag
+INFO: Adding recipe for §9Soaryn Bag
+INFO: Adding recipe for §7Worn Out Lootbag
+INFO: Adding recipe for §dBacon Bag
+INFO: Adding recipe for §fCommon Lootbag
+INFO: Adding recipe for §fCommon Lootbag
+INFO: Adding recipe for Creative EMC Storage Cell
+INFO: Adding recipe for Accio Seed Bag
+INFO: Adding recipe for Quest Tracking System
+INFO: Adding recipe for tile.blockInhibitorObelisk.name
+INFO: Adding recipe for Upgrade Module Upgrade
+INFO: Adding recipe for Infused Ender Pearl
+INFO: Adding recipe for tile.projectred.illumination.airousLight|0.name
+INFO: Adding recipe for Copper ingot
+INFO: Adding recipe for Lead solar cell
+INFO: Adding recipe for Platinum solar cell
+INFO: Adding recipe for Nickel solar cell
+INFO: Adding recipe for Tin solar cell
+INFO: Adding recipe for Tin solar cell
+INFO: Adding recipe for Copper solar cell
+INFO: Adding recipe for Cobblestone Framework
+INFO: Adding recipe for Cobblestone Slab
+INFO: Adding recipe for Cobblestone
+INFO: Adding recipe for Stone Slab
+INFO: Adding recipe for Furnace
+INFO: Adding recipe for Philosopher's Stone
+INFO: Adding recipe for Unknown Dimlet
+INFO: Adding recipe for §6Weak Infusion Stone
+INFO: Adding recipe for Electrical Steel
+INFO: Adding recipe for Treasure Chest
+INFO: Adding recipe for Tome of Knowledge
+INFO: Adding recipe for Creative Vending Upgrade
+INFO: Adding recipe for Infinity Booster Card
+INFO: Adding recipe for Infinity Chest
+INFO: Adding recipe for Creative Flux Capacitor
+INFO: Adding recipe for Creative Satchel
+INFO: Adding recipe for Creative Engine
+INFO: Adding recipe for Creative Cache
+INFO: Adding recipe for Creative Machinist's Workbench
+INFO: Adding recipe for Creative Machinist's Workbench
+INFO: Adding recipe for Creative Machinist's Workbench
+INFO: Adding recipe for Creative ME Storage Cell
+INFO: Adding recipe for Creative Portable Tank
+INFO: Adding recipe for Creative Strongbox
+INFO: Removing Xtreme Crafting Recipe for Infinity Catalyst
+INFO: Adding Xtreme Crafting Recipe for Condension Core
+INFO: Adding Xtreme Crafting Recipe for Decondension Core
+INFO: Adding Xtreme Crafting Recipe for Energy Condenser MK2
+INFO: Adding Xtreme Crafting Recipe for Exchange Core
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command exnihilo
+INFO: Adding minetweaker command gases
+INFO: Adding minetweaker command mekanism
+INFO: Adding minetweaker command railcraft
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command thermalexpansion
